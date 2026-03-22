@@ -14,10 +14,6 @@ The key rule of this mission is that everything happens during the session itsel
 - People interested in working abroad or joining global companies
 - People who can handle basic everyday English, such as ordering food while traveling
 
-## Expected Participants
-
-- 4 to 6 people
-
 ## English Requirements
 
 All reading, listening, and speaking in this study will be done in English.
