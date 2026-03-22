@@ -22,7 +22,7 @@ All reading, listening, and speaking in this study will be done in English.
 - Speaking: able to order food at a restaurant
 - Listening: able to follow Korean CSAT-level English listening without major difficulty
 
-## Weekly Plan
+## Tentative Weekly Plan
 
 1. Week 1: Self-introductions, career introductions, and reading a job description from your dream company.
 2. Week 2: Read Google's *How to Do a Code Review?* and discuss code review in the age of AI.  
@@ -32,7 +32,8 @@ All reading, listening, and speaking in this study will be done in English.
 4. Week 4: Read *Maker's Schedule, Manager's Schedule* by Paul Graham and discuss time management.  
    https://www.paulgraham.com/makersschedule.html
 5. Week 5: Read *Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%* and discuss system architecture and overengineering.
-6. Week 6: Retrospective and reflection.
+6. Week 6: Read *Introducing AWS Transform custom: Crush tech debt with AI-powered code modernization* and discuss legacy modernization, technical debt, and how AI may change software maintenance.  
+   https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization
 
 ## Session Format
 
