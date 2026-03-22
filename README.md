@@ -48,7 +48,7 @@ Each weekly session runs for two hours.
 - Article Reading (30 min): We read an English article related to software engineering.
 - Break + Review (10 min): Participants look up unfamiliar words and make sure they understand the content before the discussion. This is included because discussing in English is already challenging, and it becomes even harder without enough time to digest the article first.
 - Discussion (60 min): Participants freely discuss the article in English.
-- Review Session (20 min, Korean): Participants share what was difficult and review expressions based on feedback from speech-to-text models and GPT.
+- Review Session (20 min, Korean): Participants share what was difficult and review expressions based on feedback from speech-to-text models and GPT. The results of each Review Session will be documented on GitHub every week.
 
 ## Rules
 
