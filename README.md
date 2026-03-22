@@ -24,6 +24,8 @@ All reading, listening, and speaking in this study will be done in English.
 
 ## Tentative Weekly Plan
 
+This plan is tentative and may change based on participant suggestions and discussion.
+
 1. Week 1: Self-introductions, career introductions, and reading a job description from your dream company.
 2. Week 2: Read Google's *How to Do a Code Review?* and discuss code review in the age of AI.  
    https://google.github.io/eng-practices/review/reviewer/
