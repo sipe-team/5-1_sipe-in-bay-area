@@ -1,5 +1,7 @@
 # SIPE in Bay Area
 
+[한국어 버전](./README.ko.md)
+
 An English study mission for developers who want to improve their practical reading, writing, and speaking skills for real-world software work.
 
 ## Overview
