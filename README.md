@@ -31,13 +31,10 @@ This plan is tentative and may change based on participant suggestions and discu
 1. Week 1: Self-introductions, career introductions, and reading a job description from your dream company.
 2. Week 2: Read Google's *How to Do a Code Review?* and discuss code review in the age of AI.  
    https://google.github.io/eng-practices/review/reviewer/
-3. Week 3: Read *On Being A Senior Engineer* by John Allspaw and discuss what it means to become a senior engineer.  
-   https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
-4. Week 4: Read *Maker's Schedule, Manager's Schedule* by Paul Graham and discuss time management.  
-   https://www.paulgraham.com/makersschedule.html
-5. Week 5: Read *Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%* and discuss system architecture and overengineering.
-6. Week 6: Read *Introducing AWS Transform custom: Crush tech debt with AI-powered code modernization* and discuss legacy modernization, technical debt, and how AI may change software maintenance.  
-   https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization
+3. Week 3: [Read *Maker's Schedule, Manager's Schedule* by Paul Graham and discuss time management.](../articles/week3.md)
+4. Week 4: TBA
+5. Week 5: TBA
+6. Week 6: TBA
 
 ## Session Format
 
