@@ -32,7 +32,7 @@ It was really fun, but whenever I could not say what I wanted to say, I also fel
 
 Shout-out to Jiwon Teacher for planning everything and even being the bartender. I am looking forward to the next home party too.
 
-### Saeeun
+### Se eun
 
 I had wanted to become better at English conversation, but whenever I tried to speak, it felt like a burden, so I kept putting it off. I joined this time almost impulsively because I thought I might not get another chance like this soon, and I am really glad I participated.
 
